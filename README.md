@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **leonardohss0/leonardohss0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 🙌
-* 🤟 I'm currently working at V4 Company as Data Analyst<br>* 🎲 I'm learning about Apache Spark, Databricks, Azure and AWS<br>* 👨‍🎓 1x AWS Certified and 1x Microsoft Certified <br>* 📢[Reach my portfolio clicking here](https://bit.ly/leosanx-portfolio)<br>* 📫 How to reach me: contato.leonardohss@gmail.com or https://wa.me/17997043343
+* 🤟 I'm currently working at V4 Company as Data Analyst<br>
+* 🎲 I'm learning about Apache Spark, Databricks, Azure and AWS<br>
+* 👨‍🎓 1x AWS Certified and 1x Microsoft Certified <br>
+* 📢[Reach my portfolio clicking here](https://bit.ly/leosanx-portfolio)<br>
+* 📫 How to reach me: contato.leonardohss@gmail.com or https://wa.me/17997043343
 
 
 ## 🌐 Socials:
