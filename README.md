@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 * 🤟 I'm currently working at V4 Company as Data Analyst<br>
 * 🎲 I'm learning about Apache Spark, Databricks, Azure and AWS<br>
 * 👨‍🎓 1x AWS Certified and 1x Microsoft Certified <br>
-* 📢[Reach my portfolio clicking here](https://bit.ly/leosanx-portfolio)<br>
+* 📢 [Reach my portfolio clicking here](https://bit.ly/leosanx-portfolio)<br>
 * 📫 How to reach me: contato.leonardohss@gmail.com or https://wa.me/17997043343
 
 
