@@ -22,15 +22,6 @@ Here are some ideas to get you started:
 * 📢 [Reach my portfolio clicking here](https://bit.ly/leosanx-portfolio)<br>
 * 📫 How to reach me: contato.leonardohss@gmail.com or https://wa.me/17997043343
 
-<center>
-<table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardohghss0&hide=html&layout=compact" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=leonardohss0" /></td>
-  </tr>   
-</table>
-</center>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/leosanx/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@leonardohss) 
