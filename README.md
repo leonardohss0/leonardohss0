@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 * 🤟 I'm currently working at V4 Company as Data Analyst<br>
 * 🤯 My strongs are Python, R, Power BI, ETL and SQL.
 * 🎲 I'm learning about Apache Spark, Databricks, Azure and AWS<br>
-* 👨‍🎓 1x AWS Certified and 1x Microsoft Certified <br>
+* 👨‍🎓 1x AWS Certified and 2x Microsoft Certified <br>
 * 📢 [Reach my portfolio clicking here](https://bit.ly/leosanx-portfolio)<br>
 * 📫 How to reach me: contato.leonardohss@gmail.com or https://wa.me/17997043343
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/leosanx/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@leonardohss) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https:/www.linkedin.com/in/leosanx/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@leonardohss) 
