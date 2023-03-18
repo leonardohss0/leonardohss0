@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* 🤟 I'm currently working at V4 Company as Data Analyst<br>
+* 🤟 I'm currently working at V4 Company as Data Engineer<br>
 * 🤯 My strongs are Python, R, Power BI, ETL and SQL.
 * 🎲 I'm learning about Apache Spark, Databricks, Azure and AWS<br>
 * 👨‍🎓 1x AWS Certified and 2x Microsoft Certified <br>
