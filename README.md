@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 * 🤟 I'm currently working at Poatek as a Data Engineer<br>
 * 🤯 My strengths are Python, Spark, AWS, Scala, Power BI and SQL.
-* 💰 1º Winner on Hackathon XP 2023<br>
+* 💰 1º Winner on Hackathon TechXPEdition 2023<br>
 * 👨‍🎓 1x AWS Certified and 3x Microsoft Certified <br>
 * 📢 [Reach my portfolio clicking here](https://bit.ly/leosanx-portfolio)<br>
 * 📫 How to reach me: contato.leonardohss@gmail.com or https://wa.me/17997043343
