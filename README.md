@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* 🤟 I'm currently working at V4 Company as a Data Engineer<br>
-* 🤯 My strengths are Python, Power BI and SQL.
-* 🎲 I'm learning about Apache Spark, Databricks, Azure and AWS<br>
+* 🤟 I'm currently working at Poatek as a Data Engineer<br>
+* 🤯 My strengths are Python, Spark, AWS, Scala, Power BI and SQL.
+* 💰 1º Winner on Hackathon XP 2023<br>
 * 👨‍🎓 1x AWS Certified and 3x Microsoft Certified <br>
 * 📢 [Reach my portfolio clicking here](https://bit.ly/leosanx-portfolio)<br>
 * 📫 How to reach me: contato.leonardohss@gmail.com or https://wa.me/17997043343
