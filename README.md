@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 * 🤟 I'm currently working at Poatek as a Data Engineer<br>
-* 🤯 My strengths are Python, SQL and cloud computing with AWS.
-* 💰 1º Winner on Hackathon TechXPEdition 2023<br>
-* 👨‍🎓 1x AWS Certified and 3x Microsoft Certified <br>
+* 🤯 My strengths are Python, SQL and cloud computing with AWS or Azure.
+* 🌱 I’m currently learning Databricks, dbt and Snowflake<br>
+* 👨‍🎓 AWS Certified Solutions Architect – Associate<br>
 * 📢 [Reach my portfolio clicking here](https://bit.ly/leosanx-portfolio)<br>
 * 📫 How to reach me: contato.leonardohss@gmail.com or https://wa.me/17997043343
 
