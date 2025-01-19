@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* 🤟 I'm currently working at Poatek as a Data Engineer<br>
-* 🤯 My strengths are Python, SQL and cloud computing with AWS or Azure.
-* 🌱 I’m currently learning Databricks, dbt and Snowflake<br>
-* 👨‍🎓 AWS Certified Solutions Architect – Associate<br>
-* 📢 [Reach my portfolio clicking here](https://bit.ly/leosanx-portfolio)<br>
-* 📫 How to reach me: contato.leonardohss@gmail.com or https://wa.me/17997043343
+* 🤟 I'm currently working at Accenture as an Associate Manager and Senior Data Engineer<br>
+* 🤯 My strengths are Python, SQL, Data Engineering, and cloud computing with AWS or Azure.
+* 👨‍🎓 +5 AWS Certified<br>
+* 📫 How to reach me: contato.leonardohss@gmail.com
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leosanx/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@leonardohss) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardohss0/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@leonardohss) 
