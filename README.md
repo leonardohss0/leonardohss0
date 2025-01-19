@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 * 🤟 I'm currently working at Accenture as an Associate Manager and Senior Data Engineer<br>
 * 🤯 My strengths are Python, SQL, Data Engineering, and cloud computing with AWS or Azure.
-* 👨‍🎓 +5 AWS Certified | AWS Solutions Architect Associate, AWS Data Analytics Specialty, AWS Developer Associate, AWS Data Engineer Associate
+* 👨‍🎓 +5 AWS Certified | AWS Solutions Architect Associate, AWS Data Analytics Specialty, AWS Data Engineer Associate [...]
 * 📫 How to reach me: contato.leonardohss@gmail.com
 
 
